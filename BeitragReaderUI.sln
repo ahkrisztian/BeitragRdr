@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeitragReader", "BeitragReader\BeitragReader.csproj", "{4C004FB7-A385-4189-BE8D-116CDE1B691E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C004FB7-A385-4189-BE8D-116CDE1B691E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C004FB7-A385-4189-BE8D-116CDE1B691E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C004FB7-A385-4189-BE8D-116CDE1B691E}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C004FB7-A385-4189-BE8D-116CDE1B691E}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E553830F-48D2-4DAE-A3C2-865A60021A90}
+	EndGlobalSection
+EndGlobal
